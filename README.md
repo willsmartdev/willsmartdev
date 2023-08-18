@@ -42,14 +42,14 @@ let _willsmartdev = {
 
 <h3>Github stats ...</h3>
 <p>
-  <img height="195" alt="willsmartdev's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpsmartdesign&count_private=true&&theme=onedark&langs_count=4" />
+  <img height="195" alt="willsmartdev's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsmartdev&count_private=true&&theme=onedark&langs_count=4" />
   <img alt="willsmartdev's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=willsmartdev&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
 <h3>Get In touch ...</h3>
-<a href="https://twitter.com/willsmartdev"><img src="https://img.shields.io/twitter/follow/bpsmartdesign?label=Follow&style=social"></a>
-<a href="https://github.com/willsmartdev"><img src="https://img.shields.io/github/followers/bpsmartdesign?style=social"></a>
-<a href="https://github.com/willsmartdev"><img src="https://img.shields.io/github/stars/bpsmartdesign?style=social"></a>
+<a href="https://twitter.com/willsmartdev"><img src="https://img.shields.io/twitter/follow/willsmartdev?label=Follow&style=social"></a>
+<a href="https://github.com/willsmartdev"><img src="https://img.shields.io/github/followers/willsmartdev?style=social"></a>
+<a href="https://github.com/willsmartdev"><img src="https://img.shields.io/github/stars/willsmartdev?style=social"></a>
 <a href="https://github.com/willsmartdev"><img src="https://img.shields.io/discord/967849006078263306?style=social"></a>
 
 ------------
