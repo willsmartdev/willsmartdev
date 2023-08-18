@@ -2,32 +2,18 @@
 <h1>Hey! Nice to see you <img src="./assets/img/homer-wahoo.gif" width="35"/></h1>
 
 <p>
-  My name is BIYA Paul, I am Senior Software Engineer, Designer and Product Manager from <b><em><u>Douala, Cameroon</u></em></b> <img src="./assets/img/cameroon.png" width="18"/><br/>
+  My name is William Franck Bouguenard, I am Software Engineer student from <b><em><u>Cameroon</u></em></b> <img src="./assets/img/cameroon.png" width="18"/><br/>
   <a href="https://drive.google.com/file/d/1cr2z1LFRIHF-FkIKxZluD6zRstUYvHXS/view?usp=sharing" target="_blank" alt="bpsmartdesign.resume.pdf"><em>View my Resume</em> 😎</a>
 </p>
 
 ```javascript
-let _bpsmartdesign = {
+let _willsmartdev = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "HTML / CSS", "Php"],
-  design: ["Figma", "Adobe Photoshop", "Adobe Illustrator"],
-  askMeAbout: ["web dev", "tech", "app dev", "mobile dev", "chess"],
-  technologies: {
-        frontEnd: {
-          React: ["React Js", "Umi", "Next", ...],
-          Vue: ["Vue Js", "Vuex",  "Nuxt", ...],
-          misc: ["Tailwind", "Ant design", "Vuetify", "i18n", "Sass", "vuepress", ...]
-        },
-        backEnd: ["Node", "Express", "laravel"],
-        mobile: ["Android Development", "React Native"],
-        databases: ["PostgreSQL", "MySql", "sqlite"],
-    },
-  architecture: ["microservices", "event-driven", "design system pattern", "MVC"],
-  techCommunities: {
-    _coorganizer: "Think Dev io",
-    _speaking: "French, English",
-  },
-  challenge: "I am doing an admin panel both for (react, umi, typescript, tailwind) and (vue js, typescript, tailwind)"
+  code: ["Javascript", "HTML / CSS", "Php"],
+  design: ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Premier Pro"],
+  askMeAbout: ["web dev", "wordpress", "design"],
+  speaking: "French, English",
+  challenge: "I just started learning web dev and motion design and so on"
 }
 ```
 <h3>Things I code with ...</h3>
@@ -56,15 +42,15 @@ let _bpsmartdesign = {
 
 <h3>Github stats ...</h3>
 <p>
-  <img height="195" alt="bpsmartdesign's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpsmartdesign&count_private=true&&theme=onedark&hide=css,html,php,blade&langs_count=4" />
-  <img alt="bpsmartdesign's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bpsmartdesign&count_private=true&show_icons=true&theme=onedark" />
+  <img height="195" alt="willsmartdev's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpsmartdesign&count_private=true&&theme=onedark&langs_count=4" />
+  <img alt="willsmartdev's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=willsmartdev&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
 <h3>Get In touch ...</h3>
-<a href="https://twitter.com/bpsmartdesign"><img src="https://img.shields.io/twitter/follow/bpsmartdesign?label=Follow&style=social"></a>
-<a href="https://github.com/bpsmartdesign"><img src="https://img.shields.io/github/followers/bpsmartdesign?style=social"></a>
-<a href="https://github.com/bpsmartdesign"><img src="https://img.shields.io/github/stars/bpsmartdesign?style=social"></a>
-<a href="https://github.com/bpsmartdesign"><img src="https://img.shields.io/discord/967849006078263306?style=social"></a>
+<a href="https://twitter.com/willsmartdev"><img src="https://img.shields.io/twitter/follow/bpsmartdesign?label=Follow&style=social"></a>
+<a href="https://github.com/willsmartdev"><img src="https://img.shields.io/github/followers/bpsmartdesign?style=social"></a>
+<a href="https://github.com/willsmartdev"><img src="https://img.shields.io/github/stars/bpsmartdesign?style=social"></a>
+<a href="https://github.com/willsmartdev"><img src="https://img.shields.io/discord/967849006078263306?style=social"></a>
 
 ------------
 
@@ -83,10 +69,3 @@ let _bpsmartdesign = {
   <img alt="Forks" src="https://visitor-badge.glitch.me/badge?page_id=bpsmartdesign.visitor-badge"/>  
 </p>
 
----
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/bpsmartdesign">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Sandwich 😉&emoji=🥪&slug=bpsmartdesign&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
-  </a>
-</p>
